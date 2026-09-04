@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "lab6.1 · backend (PostgreSQL)",
+			"path": "lab6.1_postgress/backend"
+		},
+		{
+			"name": "lab6.1 · frontend",
+			"path": "lab6.1_postgress/frontend"
+		},
+		{
+			"name": "lab6.2 · backend (MySQL)",
+			"path": "lab6.2_mysql/backend"
+		},
+		{
+			"name": "lab6.2 · frontend",
+			"path": "lab6.2_mysql/frontend"
+		}
+	]
+}
